@@ -1,0 +1,12 @@
+.jumbotron{
+    background-image:url("https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/1280px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg");
+    color: white;
+
+    background-position:50% 8%;
+/*    background-size: cover;*/
+/*    cover 會對齊他的寬*/ 
+    background-repeat: no-repeat;
+ /*    repeat 會隨著螢幕變大而有灰色在旁邊*/   
+    height: 50vh;
+/*    vh: viewpoint height 讓眼睛部會動*/
+}
